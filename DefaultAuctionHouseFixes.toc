@@ -1,5 +1,5 @@
 ## Interface: 30400
-## Title: Fixes for Auction House UI
+## Title: Default Auction House Fixes
 ## Version: 1
 ## Author: plusmouse
 
