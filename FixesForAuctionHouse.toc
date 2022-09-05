@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: Fixes for Auction House UI
+## Version: 1
+## Author: plusmouse
+
+Main.lua
+Main.xml
